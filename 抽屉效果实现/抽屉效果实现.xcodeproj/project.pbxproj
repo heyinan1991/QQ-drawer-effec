@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		155B37D81B83433600FBB58E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 155B37D71B83433600FBB58E /* main.m */; };
 		155B37DB1B83433600FBB58E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 155B37DA1B83433600FBB58E /* AppDelegate.m */; };
+		155B37DE1B83433600FBB58E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 155B37DD1B83433600FBB58E /* ViewController.m */; };
 		155B37E11B83433600FBB58E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 155B37DF1B83433600FBB58E /* Main.storyboard */; };
 		155B37E31B83433600FBB58E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 155B37E21B83433600FBB58E /* Images.xcassets */; };
 		155B37E61B83433600FBB58E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 155B37E41B83433600FBB58E /* LaunchScreen.xib */; };
